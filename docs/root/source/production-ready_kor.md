@@ -10,4 +10,4 @@ Code is Apache-2.0 and docs are CC-BY-4.0
 
 참고 : BigchainDB는 "보증 없음" 섹션을 가지는 오픈소스 라이센스이며, 이는 전형적인 오픈소스 라이센스입니다. 이는 소프트웨어 산업의 표준입니다. 예를 들어, 리눅스 커널은 라이센스에 "보증 없음" 섹션을 가지고 있지만, 수십억 대의 시스템에 의해 배포되어 사용됩니다. 보증은 대개 서비스 공급자가 소프트웨어 라이센스 수준 이상으로 제공합니다.
 
-[이전](bigchaindb/docs/root/source/index_kor.md)					[다음](https://docs.bigchaindb.com/en/latest/terminology.html)
+[이전](bigchaindb/docs/root/source/index_kor.md)					[다음](bigchaindb/docs/root/source/terminology_kor.md)
