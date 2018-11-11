@@ -42,3 +42,5 @@ HTTP API 문서](http://bigchaindb.com/http-api)
 - [BigchainDB 사용 권한](https://docs.bigchaindb.com/en/latest/permissions.html)
 - [BigchainDB, 사생활 및 개인 정보](https://docs.bigchaindb.com/en/latest/private-data.html)
 - [데이터 모델](https://docs.bigchaindb.com/projects/server/en/latest/data-models/index.html)
+
+[다음](bigchaindb/docs/root/source/production-ready_kor.md)
